@@ -13,5 +13,5 @@ def select_winner(passengers)
       winner = name
     end
   }
-  winner
+  return winner
 end
